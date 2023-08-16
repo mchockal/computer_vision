@@ -1,5 +1,5 @@
 
-# Face Detection using OpenCV, Caffe pre-trained SSD model
+# Face Detection using OpenCV and pre-trained SSD model
 
 ## Live Demo
 
