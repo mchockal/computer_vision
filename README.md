@@ -4,7 +4,7 @@ This repo contains the code for computer vision specific projects I have worked 
 
 ## Live Demo
 
-Click [HERE](https://mchockal-face-recognition.streamlit.app/) to check out live demos of all my hosted computer vision projects via streamlit!
+Click [HERE](https://mchockal-computer-vision.streamlit.app/) to check out live demos of all my hosted computer vision projects via streamlit!
 
 ## Want to get in touch?
   - Add me on [Linkedin](https://www.linkedin.com/in/mchockal/)
